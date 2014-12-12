@@ -1,4 +1,3 @@
 hello-world
 ===========
-
-just another repository
+random git repository - blah blah blahh
